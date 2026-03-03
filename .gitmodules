@@ -1,0 +1,6 @@
+[submodule "modules/ambiguity-resolution"]
+	path = modules/ambiguity-resolution
+	url = https://github.com/DASE-DASLab/multimodal-ambiguity-resolution
+[submodule "modules/planning"]
+	path = modules/planning
+	url = https://github.com/DASE-DASLab/planning
